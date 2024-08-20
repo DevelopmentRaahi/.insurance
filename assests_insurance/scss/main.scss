@@ -279,6 +279,18 @@ $one_two_three_color :rgb(255 89 18);
     }
     }
  }
+ @media screen and (min-width: 992px) {
+    .tb-container {
+        .tb-body {
+
+            td{
+                .discount-tag{
+                    width: 70%;
+                }
+            }
+        }
+    }
+ }
  @media screen and (max-width: 600px) {
     .id-header{
         font-size:30px;
