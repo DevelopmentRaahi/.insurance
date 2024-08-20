@@ -28,7 +28,7 @@ document.querySelector('.copyright .year').textContent = (new Date()).getFullYea
 // }
 
 var typed = new Typed('.slidingVertical', {
-  strings: [ 'com','com' ],
+  strings: [ 'insurance','insurance' ],
       typeSpeed: 160,
   smartBackspace: true,
        loop: true
